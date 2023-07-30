@@ -61,11 +61,11 @@ After finishing setting credentials, you can connect amazon fraud detector throu
 
 <h2>Other Resources</h2>
 
-[Handout](https://drive.google.com/file/d/1RZjVFZMkvLL63NMB8G_bPGU_2Cwl8tkv/view?usp=sharing)
+[Handout](https://github.com/p-saraswat/Financial-Fraud-Solution-AWS/blob/main/Documents/Handout_Overview.pdf)
 
-[Presentation Slide](https://github.com/additanwar/AWS_Fraud_Detector/blob/main/Documents/Amazon%20Fraud%20Detector%20Addit.pdf)
+[Presentation Slide](https://github.com/p-saraswat/Financial-Fraud-Solution-AWS/blob/main/Documents/Amazon%20Fraud%20Detector%20Priyanka.pdf)
 
-[Presentation Video](https://www.youtube.com/watch?v=h5Jz2m8Ct5g)
+
 
 <h2> Other Useful links </h2>
 
